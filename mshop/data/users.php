@@ -1,0 +1,47 @@
+<?php
+// Auto-generated demo users.
+$USERS = array (
+  1 => 
+  array (
+    'name' => 'Alice',
+    'email' => 'big@t.com',
+    'password' => '123456',
+    'role' => 'customer',
+  ),
+  2 => 
+  array (
+    'name' => 'Bob Admin',
+    'email' => 'admin@t.com',
+    'password' => 'admin123',
+    'role' => 'admin',
+  ),
+  3 => 
+  array (
+    'name' => 'big',
+    'email' => 'big2@t.com',
+    'password' => '123456',
+    'role' => 'customer',
+  ),
+  4 => 
+  array (
+    'name' => 'hero',
+    'email' => 'adminhero@t.com',
+    'password' => 'admin123',
+    'role' => 'admin',
+  ),
+  5 => 
+  array (
+    'name' => 'Hero2',
+    'email' => 'Hero@t.com',
+    'password' => 'admin123',
+    'role' => 'customer',
+  ),
+  6 => 
+  array (
+    'name' => 'big22',
+    'email' => 'admin2@t.com',
+    'password' => 'admin123',
+    'role' => 'customer',
+  ),
+);
+?>
